@@ -1,0 +1,23 @@
+Running VLSI (1).mzn with ins-10.dzn
+height = 17
+width = 17
+
+x = [6, 10, 13, 3, 10, 10, 0, 0, 3, 0, 3, 7]
+y = [3, 3, 9, 8, 9, 0, 10, 4, 3, 0, 0, 0]
+
+W = [4, 7, 4, 3, 3, 7, 3, 3, 3, 3, 4, 3]
+H = [14, 6, 8, 9, 8, 3, 7, 6, 5, 4, 3, 3]
+----------
+==========
+%%%mzn-stat: initTime=0.025
+%%%mzn-stat: solveTime=0.047
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=1723
+%%%mzn-stat: propagators=2182
+%%%mzn-stat: propagations=15525
+%%%mzn-stat: nodes=29
+%%%mzn-stat: failures=8
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=25
+%%%mzn-stat-end
+Finished in 761msec
