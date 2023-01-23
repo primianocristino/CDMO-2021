@@ -10,5 +10,5 @@ pip install -r requirements.txt
 How to run the code:
 example_number is in 1..40
 ```console
-python smt.py example_number
+python src/smt.py example_number
 ```
