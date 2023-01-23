@@ -1,14 +1,11 @@
-We have 40 different examples
+There are 40 different examples. The project tries to resolve them with a timelimit of 5 minutes (300 seconds).
 
-The code tries to resolve a chosen example with a timelimit of 300 seconds.
-
-First of all install the requirements
+First, it's nedeed to install the proper module requirements:
 
 ```console
 pip install -r requirements.txt
 ```
 How to run the code:
-example_number is in 1..40
 ```console
-python src/smt.py example_number
+python src/smt.py <1..40>
 ```
